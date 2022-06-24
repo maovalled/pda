@@ -18,7 +18,7 @@
 --
 -- Table structure for table `pda_admin_periodo`
 --
-CREATE DATABASE IF NOT EXISTS dane_pda CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS encuestas_pda CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 DROP TABLE IF EXISTS `pda_admin_periodo`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
